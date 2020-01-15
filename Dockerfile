@@ -7,5 +7,5 @@ RUN pip install 'kabuki'
 RUN pip install 'seaborn==0.9.0'
 RUN pip install 'tqdm'
 RUN pip install 'ipyparallel'
-RUN pip install 'git+https://github.com/madslupe/hddm.git@rlwm'
+RUN pip install 'git+https://github.com/hddm-devs/hddm@reset_q_values'
 
